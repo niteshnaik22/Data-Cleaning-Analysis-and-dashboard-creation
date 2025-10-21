@@ -7,3 +7,5 @@ Analysis of IPL tournament data from 2008 to 2022 year for taking informed decis
 Interactive dashboard created to gain insights about player, team, venue.
 
 Supports to take logically decisions while in match or to pick right player from the auction.
+
+![Description](myimage.png)
